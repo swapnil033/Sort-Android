@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sort</string>
+    <string name="mid_text">Mid %s</string>
+    <string name="tid_text">Tid : %s</string>
+</resources>
